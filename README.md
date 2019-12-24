@@ -1,3 +1,3 @@
-# hello-wrold
-Lern about github
+# hello-world
+Learn about github
 Lousy typist and speller.
